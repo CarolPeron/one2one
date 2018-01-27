@@ -16,16 +16,10 @@
         <ul class="list-unstyled">
           <h5><strong>Comodidades</strong></h5>
           <li>
-            <%= render partial: 'block_feature', locals: {feature: 'Secretária', boolean: @room.secretary}  %>
+            <%= render partial: 'block_feature', locals: {feature: 'Entregamos!!', boolean: @room.secretary}  %>
           </li>
           <li>
-            <%= render partial: 'block_feature', locals: {feature: 'Divã', boolean: @room.psychology_couch}%>
-          </li>
-          <li>
-            <%= render partial: 'block_feature', locals: {feature: 'Limpeza', boolean: @room.cleaning} %>
-          </li>
-          <li>
-            <%= render partial: 'block_feature', locals: {feature: 'Área fumantes', boolean: @room.smoking_allowed} %>
+            <%= render partial: 'block_feature', locals: {feature: 'Amigo, só vir buscar, facinho!', boolean: @room.psychology_couch}%>
           </li>
         </ul>
         <br>
@@ -36,9 +30,10 @@
 
         <% if @room.user == current_user %>
           <p><%= link_to 'Editar', edit_room_url, class: 'btn btn-primary'%></p>
+
         <% end %>
         <div class="reservation_module">
-          <%= link_to "Reserve agora", new_room_reservation_path(@room), class: 'btn btn-primary' %>
+          <%= link_to "Faça seu pedido", new_room_reservation_path(@room), class: 'btn btn-primary' %>
         </div>
 
       </div>
@@ -46,7 +41,7 @@
 
   </div>
   <div class="col-xs-6">
-    <h3>Faça sua reserva</h3>
+    <h3>Faça seu pedido</h3>
     <div>
       <%= render 'form_create_reservation.html.erb' %>
     </div>

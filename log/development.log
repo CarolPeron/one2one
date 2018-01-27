@@ -14457,3 +14457,1518 @@ Processing by RoomsController#home as HTML
 Completed 200 OK in 74ms (Views: 72.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:03:40 -0200
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (1876.0ms)
+  Rendered shared/_navbar_wunderplace.html.erb (134.2ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 2160ms (Views: 2138.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:10:31 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (608.1ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.0ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 675ms (Views: 673.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:12:43 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.2ms)
+  Rendered shared/_navbar_wunderplace.html.erb (5.2ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 101ms (Views: 99.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:14:03 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.1ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.5ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 77ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:14:44 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.0ms)
+  Rendered shared/_navbar_wunderplace.html.erb (5.4ms)
+  Rendered shared/_flashes.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.8ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:15:03 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (5.1ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.9ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 73ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:15:19 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.4ms)
+  Rendered shared/_navbar_wunderplace.html.erb (5.2ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 78ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:15:41 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.7ms)
+  Rendered shared/_navbar_wunderplace.html.erb (5.9ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 80ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:19:57 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.6ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.6ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 74ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:22:30 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.2ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.4ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 68ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:26:07 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.3ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.3ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 72ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:28:56 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (7.4ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.0ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 8749ms (Views: 8747.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:29:49 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.5ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.0ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 4903ms (Views: 4900.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:31:33 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (6.5ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.6ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 5191ms (Views: 5189.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 04:33:58 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.1ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.9ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:00:51 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (2242.9ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.7ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 2421ms (Views: 2419.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:02:41 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 509ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Undefined variable: "$violet".):
+     9:     <title>TODO</title>
+    10:     <%= csrf_meta_tags %>
+    11:     <%= action_cable_meta_tag %>
+    12:     <%= stylesheet_link_tag 'application', media: 'all' %>
+    13: 
+    14:   </head>
+    15:   <body>
+  
+app/assets/stylesheets/config/_bootstrap_variables.scss:15
+app/assets/stylesheets/application.scss:4
+app/views/layouts/application.html.erb:12:in `_app_views_layouts_application_html_erb__3451238561718813750_70098689737540'
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:03:20 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.6ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.7ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 9715ms (Views: 9714.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:08:09 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (14.3ms)
+  Rendered shared/_navbar_wunderplace.html.erb (62.4ms)
+  Rendered shared/_flashes.html.erb (1.2ms)
+  Rendered shared/_footer.html.erb (0.7ms)
+Completed 200 OK in 8185ms (Views: 8173.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:09:14 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.8ms)
+  Rendered shared/_navbar_wunderplace.html.erb (7.5ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 4952ms (Views: 4950.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:09:19 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.4ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.7ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 71ms (Views: 70.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:09:51 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.4ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.7ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 5030ms (Views: 5028.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:10:35 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.6ms)
+  Rendered shared/_navbar_wunderplace.html.erb (4.1ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 5176ms (Views: 5174.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/devise/sign_in" for 127.0.0.1 at 2018-01-27 05:13:56 -0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (175.2ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.9ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 617ms (Views: 258.6ms | ActiveRecord: 175.5ms)
+
+
+Started POST "/devise/sign_in" for 127.0.0.1 at 2018-01-27 05:14:03 -0200
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+Ik9ktXh5gtyzBSy2NXDqID2IJbFMnWJI2yL81ODVIjza/VMEZqWdzJ93srGyhGimixcCOpwjEmrN/JEmuY3eQ==", "user"=>{"email"=>"carolperon@hotmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (413.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "carolperon@hotmail.com"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 440ms (ActiveRecord: 413.0ms)
+
+
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+Ik9ktXh5gtyzBSy2NXDqID2IJbFMnWJI2yL81ODVIjza/VMEZqWdzJ93srGyhGimixcCOpwjEmrN/JEmuY3eQ==", "user"=>{"email"=>"carolperon@hotmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.5ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.8ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 600ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/devise/sign_up" for 127.0.0.1 at 2018-01-27 05:14:09 -0200
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (24.7ms)
+  Rendered shared/_navbar_wunderplace.html.erb (3.4ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 121ms (Views: 120.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/devise" for 127.0.0.1 at 2018-01-27 05:14:26 -0200
+Processing by RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"le67rpe+hzabD6fmGrYZZMqhpA0iLUS3aIzzNLNUv46eDHNwU8X3Stu+bZ4Eqctu0HvYkw1vvXfg14qDejHcfw==", "user"=>{"email"=>"carolineperon@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists (9.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "carolineperon@gmail.com"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[31mROLLBACK[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (29.2ms)
+  Rendered shared/_navbar_wunderplace.html.erb (5.4ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 396ms (Views: 119.9ms | ActiveRecord: 9.9ms)
+
+
+Started POST "/devise" for 127.0.0.1 at 2018-01-27 05:14:50 -0200
+Processing by RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"9FFaPk92ZXuemXrevbFMd6EulcPcvLylzIzraZUCF8D/s5Lgiw0VB94osKajrp59u/TpXfP+RWVE15LeXGd0MQ==", "user"=>{"email"=>"carolperon@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists (0.7ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "carolperon@hotmail.com"], ["LIMIT", 1]]
+  [1m[35mSQL (24.4ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["email", "carolperon@hotmail.com"], ["encrypted_password", "$2a$11$4LP5BKgaMacyYjgOIt5Mlu3nqroCE/H7WjMmvEhCE0.LUqrI.QWZ."], ["created_at", "2018-01-27 07:14:51.016716"], ["updated_at", "2018-01-27 07:14:51.016716"]]
+  [1m[35m (84.8ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (1.3ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = $1, "current_sign_in_at" = $2, "last_sign_in_at" = $3, "current_sign_in_ip" = $4, "last_sign_in_ip" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["sign_in_count", 1], ["current_sign_in_at", "2018-01-27 07:14:51.130197"], ["last_sign_in_at", "2018-01-27 07:14:51.130197"], ["current_sign_in_ip", "127.0.0.1/32"], ["last_sign_in_ip", "127.0.0.1/32"], ["updated_at", "2018-01-27 07:14:51.131861"], ["id", 4]]
+  [1m[35m (18.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/users/4/edit
+Completed 302 Found in 350ms (ActiveRecord: 130.1ms)
+
+
+Started GET "/users/4/edit" for 127.0.0.1 at 2018-01-27 05:14:51 -0200
+Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering users/edit.html.erb within layouts/application
+  Rendered shared/_user_form.html.erb (87.4ms)
+  Rendered users/edit.html.erb within layouts/application (94.8ms)
+  [1m[36mAttachinary::File Load (2.5ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (121.7ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 354ms (Views: 271.4ms | ActiveRecord: 40.2ms)
+
+
+Started PATCH "/users/4" for 127.0.0.1 at 2018-01-27 05:15:37 -0200
+Processing by UsersController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PWYP2VBxpbTFWc8OVTslwHmuFCFnG8wPnsr94dGeB042hMcHlArVyIXoBXZLJPfKY3Rov0hZNc8WkYRWGPtkvw==", "user"=>{"first_name"=>"Caroline", "last_name"=>"Peron", "birthday(3i)"=>"27", "birthday(2i)"=>"7", "birthday(1i)"=>"1980", "cpf"=>"90048300144", "phone_number"=>"0451013861", "address"=>"Brisbane", "email"=>"carolperon@hotmail.com"}, "commit"=>"Criar usuário", "id"=>"4"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+Unpermitted parameter: :email
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[33mUPDATE "users" SET "first_name" = $1, "last_name" = $2, "cpf" = $3, "address" = $4, "phone_number" = $5, "birthday" = $6, "updated_at" = $7 WHERE "users"."id" = $8[0m  [["first_name", "Caroline"], ["last_name", "Peron"], ["cpf", "90048300144"], ["address", "Brisbane"], ["phone_number", "0451013861"], ["birthday", "1980-07-27"], ["updated_at", "2018-01-27 07:15:37.556963"], ["id", 4]]
+  [1m[35m (17.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 35ms (ActiveRecord: 19.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:15:37 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (6.8ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (18.0ms)
+  Rendered shared/_flashes.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 127ms (Views: 123.2ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:15:52 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (8.0ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.2ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 85ms (Views: 81.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/devise/edit" for 127.0.0.1 at 2018-01-27 05:16:00 -0200
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered devise/registrations/edit.html.erb within layouts/application (507.4ms)
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (6.0ms)
+  Rendered shared/_flashes.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 591ms (Views: 584.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:16:07 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.1ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (15.6ms)
+  Rendered shared/_flashes.html.erb (1.7ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 101ms (Views: 98.2ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:16:10 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (13.9ms)
+  Rendered rooms/new.html.erb within layouts/application (55.1ms)
+  [1m[36mUser Load (1.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (16.5ms)
+  Rendered shared/_flashes.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 288ms (Views: 146.4ms | ActiveRecord: 8.9ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:17:07 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.3ms)
+  Rendered rooms/new.html.erb within layouts/application (26.5ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.5ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 122ms (Views: 118.8ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:17:14 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.5ms)
+  Rendered rooms/new.html.erb within layouts/application (16.2ms)
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.2ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 98ms (Views: 94.8ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:20:39 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/new.html.erb within layouts/application (239.2ms)
+Completed 500 Internal Server Error in 243ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (The asset "banner.jpeg.jpg" is not present in the asset pipeline.):
+    1: <!--  render "banner_room"  -->
+    2: <div class="banner" style="background-image: linear-gradient(-225deg, rgba(150,168,168,0.6) 0%, rgba(0,61,61,0.6) 50%), url('<%= image_path('banner.jpeg.jpg') %>');">
+    3:   <div class="container">
+    4:     <div class="row">
+    5:       <h1> Ganhe dinheiro vendendo o que vocẽ sabe fazer </h1>
+  
+app/views/rooms/new.html.erb:2:in `_app_views_rooms_new_html_erb__3395988884002085242_70098721707580'
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:21:15 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (6.2ms)
+  Rendered rooms/new.html.erb within layouts/application (9.7ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.8ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 85ms (Views: 82.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:21:42 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (6.0ms)
+  Rendered rooms/new.html.erb within layouts/application (9.7ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.4ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 91ms (Views: 87.1ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:22:19 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (7.0ms)
+  Rendered rooms/new.html.erb within layouts/application (11.5ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.8ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 87ms (Views: 83.5ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:22:45 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (10.5ms)
+  Rendered rooms/new.html.erb within layouts/application (14.2ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.8ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 91ms (Views: 87.8ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:23:43 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (6.2ms)
+  Rendered rooms/new.html.erb within layouts/application (10.5ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.5ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 89ms (Views: 85.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:24:08 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (8.2ms)
+  Rendered rooms/new.html.erb within layouts/application (12.8ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.0ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 96ms (Views: 91.4ms | ActiveRecord: 1.7ms)
+
+
+Started POST "/rooms" for 127.0.0.1 at 2018-01-27 05:24:37 -0200
+Processing by RoomsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"voRfQyV57AmsrYVo1hnpVyycrZgTuCYEo8oA/5Rr95W1Zped4QKcdewcTxDIBjtdNkbRBjz638QrkXlIXQ6UZA==", "room"=>{"type"=>"Comidinhas", "address"=>"Brisbane, Spring Hill, Queensland, Australia"}, "commit"=>"Cadastrar"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (23.1ms)[0m  [1m[32mINSERT INTO "rooms" ("address", "type", "user_id", "created_at", "updated_at", "latitude", "longitude") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["address", "Brisbane, Spring Hill, Queensland, Australia"], ["type", "Comidinhas"], ["user_id", 4], ["created_at", "2018-01-27 07:24:42.016046"], ["updated_at", "2018-01-27 07:24:42.016046"], ["latitude", -27.46], ["longitude", 153.026]]
+  [1m[35m (14.5ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/13/edit
+Completed 302 Found in 4622ms (ActiveRecord: 38.8ms)
+
+
+Started GET "/rooms/13/edit" for 127.0.0.1 at 2018-01-27 05:24:42 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"13"}
+  [1m[36mRoom Load (0.6ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 13], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 13], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (42.0ms)
+  Rendered rooms/edit.html.erb within layouts/application (49.1ms)
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.5ms)
+  Rendered shared/_flashes.html.erb (1.2ms)
+  Rendered shared/_footer.html.erb (0.7ms)
+Completed 200 OK in 143ms (Views: 118.7ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/rooms/13/edit" for 127.0.0.1 at 2018-01-27 05:34:53 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"13"}
+  [1m[36mRoom Load (0.6ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 13], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (4.0ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 13], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (24.8ms)
+  Rendered rooms/edit.html.erb within layouts/application (27.5ms)
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.2ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 105ms (Views: 95.9ms | ActiveRecord: 6.7ms)
+
+
+Started GET "/rooms/13/edit" for 127.0.0.1 at 2018-01-27 05:35:43 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"13"}
+  [1m[36mRoom Load (0.6ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 13], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 13], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (15.5ms)
+  Rendered rooms/edit.html.erb within layouts/application (17.1ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.0ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 88ms (Views: 81.6ms | ActiveRecord: 3.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:36:06 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (2.8ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.8ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 98ms (Views: 95.8ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:36:15 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (8.4ms)
+  Rendered rooms/new.html.erb within layouts/application (13.0ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.8ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 91ms (Views: 86.9ms | ActiveRecord: 1.7ms)
+
+
+Started POST "/rooms" for 127.0.0.1 at 2018-01-27 05:36:32 -0200
+Processing by RoomsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"h+YI9I3ILJQUzdSRfgOaDpddLpKZiBXM72EWJowXPJuMBMAqSbNc6FR8HulgHEgEjYdSDLbK7AxnOm+RRXJfag==", "room"=>{"type"=>"Produtos do Brasil", "address"=>"brisbane"}, "commit"=>"Cadastrar"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "rooms" ("address", "type", "user_id", "created_at", "updated_at", "latitude", "longitude") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["address", "brisbane"], ["type", "Produtos do Brasil"], ["user_id", 4], ["created_at", "2018-01-27 07:36:32.896724"], ["updated_at", "2018-01-27 07:36:32.896724"], ["latitude", -27.4697707], ["longitude", 153.0251235]]
+  [1m[35m (22.4ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/14/edit
+Completed 302 Found in 864ms (ActiveRecord: 24.4ms)
+
+
+Started GET "/rooms/14/edit" for 127.0.0.1 at 2018-01-27 05:36:32 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"14"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 14], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 14], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (18.6ms)
+  Rendered rooms/edit.html.erb within layouts/application (20.3ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (9.6ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 103ms (Views: 97.1ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/rooms/14/edit" for 127.0.0.1 at 2018-01-27 05:38:13 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"14"}
+  [1m[36mRoom Load (0.6ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 14], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 14], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (16.5ms)
+  Rendered rooms/edit.html.erb within layouts/application (18.0ms)
+  [1m[36mUser Load (1.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.4ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 96ms (Views: 89.1ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:38:49 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.1ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.7ms)
+  Rendered shared/_flashes.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 90ms (Views: 86.6ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:38:54 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (7.5ms)
+  Rendered rooms/new.html.erb within layouts/application (12.5ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.2ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 91ms (Views: 88.2ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:39:30 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (8.1ms)
+  Rendered rooms/new.html.erb within layouts/application (12.2ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.9ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 89ms (Views: 86.0ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:39:57 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.8ms)
+  Rendered rooms/new.html.erb within layouts/application (13.1ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.0ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 95ms (Views: 91.1ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:40:10 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.2ms)
+  Rendered rooms/new.html.erb within layouts/application (13.9ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.4ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 94ms (Views: 90.3ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:40:32 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.1ms)
+  Rendered rooms/new.html.erb within layouts/application (12.8ms)
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.7ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 87ms (Views: 82.3ms | ActiveRecord: 2.3ms)
+
+
+Started POST "/rooms" for 127.0.0.1 at 2018-01-27 05:40:49 -0200
+Processing by RoomsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"g/5I/oOwbhiuDYjziPLa8mMUbxG7+HiJr/u35ZclttOIHIAgR8seZO68QouW7Qj4ec4Tj5S6gUknoM5SXkDVIg==", "room"=>{"type"=>"Produtos do Brasil", "address"=>"Brisbane City, Queensland, Australia"}, "commit"=>"Cadastrar"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "rooms" ("address", "type", "user_id", "created_at", "updated_at", "latitude", "longitude") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["address", "Brisbane City, Queensland, Australia"], ["type", "Produtos do Brasil"], ["user_id", 4], ["created_at", "2018-01-27 07:40:50.918245"], ["updated_at", "2018-01-27 07:40:50.918245"], ["latitude", -27.4697707], ["longitude", 153.0251235]]
+  [1m[35m (13.0ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/15/edit
+Completed 302 Found in 1237ms (ActiveRecord: 15.2ms)
+
+
+Started GET "/rooms/15/edit" for 127.0.0.1 at 2018-01-27 05:40:50 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"15"}
+  [1m[36mRoom Load (0.5ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 15], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 15], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (18.7ms)
+  Rendered rooms/edit.html.erb within layouts/application (20.8ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.1ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 99ms (Views: 93.4ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/rooms/15/edit" for 127.0.0.1 at 2018-01-27 05:41:51 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"15"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 15], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 15], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (17.7ms)
+  Rendered rooms/edit.html.erb within layouts/application (19.3ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (9.7ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 95ms (Views: 87.9ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/devise/edit" for 127.0.0.1 at 2018-01-27 05:42:06 -0200
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered devise/registrations/edit.html.erb within layouts/application (31.6ms)
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (6.8ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 118ms (Views: 105.3ms | ActiveRecord: 2.3ms)
+
+
+Started PUT "/devise" for 127.0.0.1 at 2018-01-27 05:42:27 -0200
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"SNV1EWL9Gy4PFreyheQK5zGwHBvBt5ItxEru6ZU+3rZDN73PpoZrUk+nfcqb+9jtK2pghe71a+1MEZdeXFu9Rw==", "user"=>{"photo"=>"[{\"public_id\":\"l4mofgeurtgan7rzjomf\",\"version\":1517038940,\"signature\":\"c764c0a96731f7d8dfb4239df920e585ffa0a6be\",\"width\":163,\"height\":110,\"format\":\"jpg\",\"resource_type\":\"image\",\"created_at\":\"2018-01-27T07:42:21Z\",\"tags\":[\"development_env\",\"attachinary_tmp\"],\"bytes\":7079,\"type\":\"upload\",\"etag\":\"d124c500bc5081e4575718da43d99a78\",\"placeholder\":false,\"url\":\"http://res.cloudinary.com/dgcueocdw/image/upload/v1517038940/l4mofgeurtgan7rzjomf.jpg\",\"secure_url\":\"https://res.cloudinary.com/dgcueocdw/image/upload/v1517038940/l4mofgeurtgan7rzjomf.jpg\",\"original_filename\":\"avatar\"}]", "first_name"=>"Caroline", "last_name"=>"Peron", "birthday(3i)"=>"27", "birthday(2i)"=>"7", "birthday(1i)"=>"1980", "cpf"=>"90048300144", "address"=>"Brisbane", "phone_number"=>"0451013861", "email"=>"carolperon@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Atualizar"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (71.9ms)[0m  [1m[32mINSERT INTO "attachinary_files" ("attachinariable_type", "attachinariable_id", "scope", "public_id", "version", "width", "height", "format", "resource_type", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING "id"[0m  [["attachinariable_type", "User"], ["attachinariable_id", 4], ["scope", "photo"], ["public_id", "l4mofgeurtgan7rzjomf"], ["version", "1517038940"], ["width", 163], ["height", 110], ["format", "jpg"], ["resource_type", "image"], ["created_at", "2018-01-27 07:42:28.119734"], ["updated_at", "2018-01-27 07:42:28.119734"]]
+  [1m[35m (15.2ms)[0m  [1m[35mCOMMIT[0m
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (27.6ms)
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (354.3ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (1.1ms)
+Completed 200 OK in 6105ms (Views: 452.5ms | ActiveRecord: 90.6ms)
+
+
+Started PUT "/devise" for 127.0.0.1 at 2018-01-27 05:42:53 -0200
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oR06PYRWZzYOpRnf0CvNd+QQDjOP+GPvBE2fIMshxJCq//LjQC0XSk4U06fONB99/spyraC6mi+MFuaXAkSnYQ==", "user"=>{"photo"=>"[{\"id\":12,\"public_id\":\"l4mofgeurtgan7rzjomf\",\"version\":\"1517038940\",\"format\":\"jpg\",\"resource_type\":\"image\",\"path\":\"v1517038940/l4mofgeurtgan7rzjomf.jpg\"}]", "first_name"=>"Caroline", "last_name"=>"Peron", "birthday(3i)"=>"27", "birthday(2i)"=>"7", "birthday(1i)"=>"1980", "cpf"=>"90048300144", "address"=>"Brisbane", "phone_number"=>"0451013861", "email"=>"carolperon@hotmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Atualizar"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.5ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAttachinary::File Load (0.5ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."id" = $1 LIMIT $2[0m  [["id", 12], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.6ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"]]
+  [1m[35mSQL (1.0ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["encrypted_password", "$2a$11$RRIKRSbW64g/QWbhsPqZAeIFpAVkO.mvrbAe6tItd8rimh1znqjk6"], ["updated_at", "2018-01-27 07:42:54.024425"], ["id", 4]]
+  [1m[35m (16.8ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 439ms (ActiveRecord: 20.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 05:42:54 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.8ms)
+  [1m[36mUser Load (1.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (18.7ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 102ms (Views: 98.6ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/rooms?utf8=%E2%9C%93&address=&when=&type=Comidinhas&button=" for 127.0.0.1 at 2018-01-27 05:43:36 -0200
+Processing by RoomsController#index as HTML
+  Parameters: {"utf8"=>"✓", "address"=>"", "when"=>"", "type"=>"Comidinhas", "button"=>""}
+  [1m[36mRoom Load (0.8ms)[0m  [1m[34mSELECT "rooms".* FROM "rooms" WHERE "rooms"."type" = $1[0m  [["type", "Comidinhas"]]
+  Rendering rooms/index.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 13], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/index.html.erb within layouts/application (4.7ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.4ms)
+  Rendered shared/_flashes.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 117ms (Views: 88.6ms | ActiveRecord: 3.3ms)
+
+
+Started GET "/css/style.css" for 127.0.0.1 at 2018-01-27 05:43:36 -0200
+  
+ActionController::RoutingError (No route matches [GET] "/css/style.css"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 05:43:41 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.3ms)
+  Rendered rooms/new.html.erb within layouts/application (13.8ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (16.9ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 88ms (Views: 84.2ms | ActiveRecord: 2.2ms)
+
+
+Started POST "/rooms" for 127.0.0.1 at 2018-01-27 05:44:06 -0200
+Processing by RoomsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gd0NIbtWRJSGz/kLp64kf17HGqfCdWzQNgXe7UMwMhuKP8X/fy006MZ+M3O5sfZ1RB1mOe03lRC+XqdailVR6g==", "room"=>{"type"=>"Comidinhas", "address"=>"Brisbane, Spring Hill, Queensland, Australia"}, "commit"=>"Cadastrar"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "rooms" ("address", "type", "user_id", "created_at", "updated_at", "latitude", "longitude") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["address", "Brisbane, Spring Hill, Queensland, Australia"], ["type", "Comidinhas"], ["user_id", 4], ["created_at", "2018-01-27 07:44:08.000750"], ["updated_at", "2018-01-27 07:44:08.000750"], ["latitude", -27.46], ["longitude", 153.026]]
+  [1m[35m (26.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/16/edit
+Completed 302 Found in 1426ms (ActiveRecord: 28.3ms)
+
+
+Started GET "/rooms/16/edit" for 127.0.0.1 at 2018-01-27 05:44:08 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.7ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (18.6ms)
+  Rendered rooms/edit.html.erb within layouts/application (20.4ms)
+  [1m[36mUser Load (3.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (16.0ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 130ms (Views: 121.4ms | ActiveRecord: 5.8ms)
+
+
+Started PATCH "/rooms/16" for 127.0.0.1 at 2018-01-27 05:46:39 -0200
+Processing by RoomsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3SuqRFHUYTFONuez4az39ZQ2p1qcZnho9uHF6XvnvkXWyWKala8RTQ6HLcv/syX/juzbxLMkgah+urxesoLdtA==", "room"=>{"name"=>"Coxinhas Legítimas de massa de mandioca", "description"=>"Deliciosas Coxinhas de carne ou frango com massa de mandioca.", "price"=>"2", "secretary"=>"0", "psychology_couch"=>"1", "photos"=>["[{\"public_id\":\"blteglfy25j2kag7swfv\",\"version\":1517039175,\"signature\":\"6badc1f1ba42c38cb8e5f3fc8ca9a7122699a0ad\",\"width\":355,\"height\":237,\"format\":\"jpg\",\"resource_type\":\"image\",\"created_at\":\"2018-01-27T07:46:15Z\",\"tags\":[\"development_env\",\"attachinary_tmp\"],\"bytes\":27970,\"type\":\"upload\",\"etag\":\"b966bd9edf6a766146a24d3d63c6fbb6\",\"placeholder\":false,\"url\":\"http://res.cloudinary.com/dgcueocdw/image/upload/v1517039175/blteglfy25j2kag7swfv.jpg\",\"secure_url\":\"https://res.cloudinary.com/dgcueocdw/image/upload/v1517039175/blteglfy25j2kag7swfv.jpg\",\"original_filename\":\"coxinha\"},{\"public_id\":\"uws1rhbbk3pggt7oseus\",\"version\":1517039185,\"signature\":\"ed29783c53114c10fa316bcad925be1dc70b71b7\",\"width\":290,\"height\":174,\"format\":\"jpg\",\"resource_type\":\"image\",\"created_at\":\"2018-01-27T07:46:25Z\",\"tags\":[\"development_env\",\"attachinary_tmp\"],\"bytes\":9465,\"type\":\"upload\",\"etag\":\"c30949151e4051ce0fe9c83620ef2e1e\",\"placeholder\":false,\"url\":\"http://res.cloudinary.com/dgcueocdw/image/upload/v1517039185/uws1rhbbk3pggt7oseus.jpg\",\"secure_url\":\"https://res.cloudinary.com/dgcueocdw/image/upload/v1517039185/uws1rhbbk3pggt7oseus.jpg\",\"original_filename\":\"coxinha2\",\"original_extension\":\"jpeg\"}]"]}, "commit"=>"Avançar", "id"=>"16"}
+  [1m[36mRoom Load (0.3ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "attachinary_files" ("attachinariable_type", "attachinariable_id", "scope", "public_id", "version", "width", "height", "format", "resource_type", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING "id"[0m  [["attachinariable_type", "Room"], ["attachinariable_id", 16], ["scope", "photos"], ["public_id", "blteglfy25j2kag7swfv"], ["version", "1517039175"], ["width", 355], ["height", 237], ["format", "jpg"], ["resource_type", "image"], ["created_at", "2018-01-27 07:46:39.367859"], ["updated_at", "2018-01-27 07:46:39.367859"]]
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "attachinary_files" ("attachinariable_type", "attachinariable_id", "scope", "public_id", "version", "width", "height", "format", "resource_type", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING "id"[0m  [["attachinariable_type", "Room"], ["attachinariable_id", 16], ["scope", "photos"], ["public_id", "uws1rhbbk3pggt7oseus"], ["version", "1517039185"], ["width", 290], ["height", 174], ["format", "jpg"], ["resource_type", "image"], ["created_at", "2018-01-27 07:46:41.480737"], ["updated_at", "2018-01-27 07:46:41.480737"]]
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35mSQL (0.8ms)[0m  [1m[33mUPDATE "rooms" SET "description" = $1, "name" = $2, "price_centavos" = $3, "secretary" = $4, "psychology_couch" = $5, "updated_at" = $6 WHERE "rooms"."id" = $7[0m  [["description", "Deliciosas Coxinhas de carne ou frango com massa de mandioca."], ["name", "Coxinhas Legítimas de massa de mandioca"], ["price_centavos", 200], ["secretary", "f"], ["psychology_couch", "t"], ["updated_at", "2018-01-27 07:46:43.431017"], ["id", 16]]
+  [1m[35m (23.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/16
+Completed 302 Found in 4124ms (ActiveRecord: 28.0ms)
+
+
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 05:46:43 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (20.7ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (7.9ms)
+  Rendered rooms/_block_feature.html.erb (0.8ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.7ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (2.9ms)
+  Rendered rooms/show.html.erb within layouts/application (36.3ms)
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.2ms)
+  Rendered shared/_flashes.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 202ms (Views: 110.7ms | ActiveRecord: 27.9ms)
+
+
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 05:51:25 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.5ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (6.3ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.5ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (2.9ms)
+  Rendered rooms/show.html.erb within layouts/application (25.6ms)
+  [1m[36mAttachinary::File Load (1.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (10.9ms)
+  Rendered shared/_flashes.html.erb (1.1ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 111ms (Views: 99.3ms | ActiveRecord: 5.6ms)
+
+
+Started GET "/rooms/16/edit" for 127.0.0.1 at 2018-01-27 05:56:54 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.3ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (22.6ms)
+  Rendered rooms/edit.html.erb within layouts/application (24.5ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.1ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 106ms (Views: 100.2ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/rooms/16/reservations/new" for 127.0.0.1 at 2018-01-27 05:56:58 -0200
+Processing by ReservationsController#new as HTML
+  Parameters: {"room_id"=>"16"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  Rendering reservations/new.html.erb within layouts/application
+  [1m[36mReservation Load (0.5ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendered reservations/new.html.erb within layouts/application (4.1ms)
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (8.9ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 91ms (Views: 74.6ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 05:59:57 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.5ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.5ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (7.2ms)
+  Rendered rooms/_block_feature.html.erb (0.9ms)
+  Rendered rooms/_block_feature.html.erb (0.1ms)
+  Rendered rooms/_review_show.html.erb (1.5ms)
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (1.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered rooms/show.html.erb within layouts/application (788.5ms)
+Completed 500 Internal Server Error in 799ms (ActiveRecord: 5.4ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `destroy_room_url' for #<#<Class:0x00005597f132df28>:0x00007f823d145098>
+Did you mean?  destroy_session_url):
+    30: 
+    31:         <% if @room.user == current_user %>
+    32:           <p><%= link_to 'Editar', edit_room_url, class: 'btn btn-primary'%></p>
+    33:           <p><%= link_to 'Deletar', destroy_room_url, class: 'btn btn-primary'%></p>
+    34:         <% end %>
+    35:         <div class="reservation_module">
+    36:           <%= link_to "Faça seu pedido", new_room_reservation_path(@room), class: 'btn btn-primary' %>
+  
+app/views/rooms/show.html.erb:33:in `_app_views_rooms_show_html_erb__1392601390906582944_70098673610280'
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 06:00:37 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.5ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.6ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (7.0ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.7ms)
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/show.html.erb within layouts/application (20.4ms)
+Completed 500 Internal Server Error in 29ms (ActiveRecord: 3.5ms)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 0, expected 1+)):
+    30: 
+    31:         <% if @room.user == current_user %>
+    32:           <p><%= link_to 'Editar', edit_room_url, class: 'btn btn-primary'%></p>
+    33:           <p><%= link_to 'Deletar', destroy_session_url, class: 'btn btn-primary'%></p>
+    34:         <% end %>
+    35:         <div class="reservation_module">
+    36:           <%= link_to "Faça seu pedido", new_room_reservation_path(@room), class: 'btn btn-primary' %>
+  
+app/views/rooms/show.html.erb:33:in `_app_views_rooms_show_html_erb__1392601390906582944_70098736124320'
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 06:22:43 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.3ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.4ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  Rendered rooms/show.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.7ms)
+
+
+  
+SyntaxError (/home/caroline/code/CarolPeron/one2one/app/views/rooms/show.html.erb:77: syntax error, unexpected keyword_ensure, expecting keyword_end
+/home/caroline/code/CarolPeron/one2one/app/views/rooms/show.html.erb:79: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/rooms/show.html.erb:77: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/rooms/show.html.erb:79: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 06:23:18 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.3ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (6.6ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.7ms)
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (2.3ms)
+  Rendered rooms/show.html.erb within layouts/application (23.2ms)
+  [1m[36mAttachinary::File Load (1.4ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (11.1ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.8ms)
+Completed 200 OK in 122ms (Views: 112.8ms | ActiveRecord: 4.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:23:26 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.5ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.1ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 84ms (Views: 81.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:26:34 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (5.4ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.7ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 91ms (Views: 88.3ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:26:47 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (10.0ms)
+  Rendered rooms/new.html.erb within layouts/application (14.6ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.8ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 97ms (Views: 94.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:26:57 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (9.9ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (16.4ms)
+  Rendered shared/_flashes.html.erb (1.6ms)
+  Rendered shared/_footer.html.erb (0.7ms)
+Completed 200 OK in 98ms (Views: 95.4ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:27:14 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (9.8ms)
+  Rendered rooms/new.html.erb within layouts/application (14.7ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.6ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 96ms (Views: 92.1ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:29:23 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (10.6ms)
+  Rendered rooms/new.html.erb within layouts/application (16.1ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (15.6ms)
+  Rendered shared/_flashes.html.erb (1.3ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 107ms (Views: 103.8ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:29:40 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (10.7ms)
+  Rendered rooms/new.html.erb within layouts/application (14.4ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (17.9ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 101ms (Views: 97.6ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:30:13 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (8.1ms)
+  Rendered rooms/new.html.erb within layouts/application (12.8ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.3ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 105ms (Views: 101.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/rooms/new" for 127.0.0.1 at 2018-01-27 06:30:56 -0200
+Processing by RoomsController#new as HTML
+  Rendering rooms/new.html.erb within layouts/application
+  Rendered rooms/_form_new_room.html.erb (8.4ms)
+  Rendered rooms/new.html.erb within layouts/application (13.0ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.1ms)
+  Rendered shared/_flashes.html.erb (0.8ms)
+  Rendered shared/_footer.html.erb (0.8ms)
+Completed 200 OK in 129ms (Views: 125.5ms | ActiveRecord: 1.6ms)
+
+
+Started POST "/rooms" for 127.0.0.1 at 2018-01-27 06:31:25 -0200
+Processing by RoomsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"c7/4gHxbRop7neTLZ/3pxloRS2ZLATw0rl04wlX6MoF4XTBeuCA29jssLrN54jvMQMs3+GRDxfQmBkF1nJ9RcA==", "room"=>{"type"=>"Produtos do Brasil", "address"=>"Brisbane, Spring Hill, Queensland, Australia"}, "commit"=>"Cadastrar"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (26.1ms)[0m  [1m[32mINSERT INTO "rooms" ("address", "type", "user_id", "created_at", "updated_at", "latitude", "longitude") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["address", "Brisbane, Spring Hill, Queensland, Australia"], ["type", "Produtos do Brasil"], ["user_id", 4], ["created_at", "2018-01-27 08:31:29.067622"], ["updated_at", "2018-01-27 08:31:29.067622"], ["latitude", -27.46], ["longitude", 153.026]]
+  [1m[35m (13.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/17/edit
+Completed 302 Found in 3935ms (ActiveRecord: 40.6ms)
+
+
+Started GET "/rooms/17/edit" for 127.0.0.1 at 2018-01-27 06:31:29 -0200
+Processing by RoomsController#edit as HTML
+  Parameters: {"id"=>"17"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 17], ["LIMIT", 1]]
+  Rendering rooms/edit.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 17], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_form_edit_room.html.erb (23.4ms)
+  Rendered rooms/edit.html.erb within layouts/application (25.5ms)
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.1ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 113ms (Views: 106.7ms | ActiveRecord: 2.8ms)
+
+
+Started PATCH "/rooms/17" for 127.0.0.1 at 2018-01-27 06:34:19 -0200
+Processing by RoomsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"o0HCNdin8K6LIAEBDffAGNMYGXKsrKppb2f12aiszvSoowrrHNyA0suRy3kT6BISycJl7IPuU6nnPIxuYcmtBQ==", "room"=>{"name"=>"Cachaça Pirassunga 51 - a legítima ", "description"=>"Vendo a melhor Cachaça para caipirinha!!", "price"=>"50", "secretary"=>"0", "psychology_couch"=>"1", "photos"=>["[{\"public_id\":\"k4itnafaa0uuyhoivfnp\",\"version\":1517042039,\"signature\":\"4b008f5ed646a2a4a98cd6737d7529d359bf5338\",\"width\":194,\"height\":259,\"format\":\"jpg\",\"resource_type\":\"image\",\"created_at\":\"2018-01-27T08:34:00Z\",\"tags\":[\"development_env\",\"attachinary_tmp\"],\"bytes\":11823,\"type\":\"upload\",\"etag\":\"23739882d8cc6a5ecc49dfa6272bdb60\",\"placeholder\":false,\"url\":\"http://res.cloudinary.com/dgcueocdw/image/upload/v1517042039/k4itnafaa0uuyhoivfnp.jpg\",\"secure_url\":\"https://res.cloudinary.com/dgcueocdw/image/upload/v1517042039/k4itnafaa0uuyhoivfnp.jpg\",\"original_filename\":\"cachaça\",\"original_extension\":\"jpeg\"},{\"public_id\":\"synsssyxv5p28z5jnoab\",\"version\":1517042056,\"signature\":\"b18ae417f3e440befcfea1413c011120e9f841c6\",\"width\":241,\"height\":209,\"format\":\"jpg\",\"resource_type\":\"image\",\"created_at\":\"2018-01-27T08:34:16Z\",\"tags\":[\"development_env\",\"attachinary_tmp\"],\"bytes\":11730,\"type\":\"upload\",\"etag\":\"160f342170acf857bbd459f78cd82582\",\"placeholder\":false,\"url\":\"http://res.cloudinary.com/dgcueocdw/image/upload/v1517042056/synsssyxv5p28z5jnoab.jpg\",\"secure_url\":\"https://res.cloudinary.com/dgcueocdw/image/upload/v1517042056/synsssyxv5p28z5jnoab.jpg\",\"original_filename\":\"cachaça2\",\"original_extension\":\"jpeg\"}]"]}, "commit"=>"Avançar", "id"=>"17"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 17], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 17], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  [1m[35mSQL (0.7ms)[0m  [1m[32mINSERT INTO "attachinary_files" ("attachinariable_type", "attachinariable_id", "scope", "public_id", "version", "width", "height", "format", "resource_type", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING "id"[0m  [["attachinariable_type", "Room"], ["attachinariable_id", 17], ["scope", "photos"], ["public_id", "k4itnafaa0uuyhoivfnp"], ["version", "1517042039"], ["width", 194], ["height", 259], ["format", "jpg"], ["resource_type", "image"], ["created_at", "2018-01-27 08:34:19.420026"], ["updated_at", "2018-01-27 08:34:19.420026"]]
+  [1m[35mSQL (1.2ms)[0m  [1m[32mINSERT INTO "attachinary_files" ("attachinariable_type", "attachinariable_id", "scope", "public_id", "version", "width", "height", "format", "resource_type", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11) RETURNING "id"[0m  [["attachinariable_type", "Room"], ["attachinariable_id", 17], ["scope", "photos"], ["public_id", "synsssyxv5p28z5jnoab"], ["version", "1517042056"], ["width", 241], ["height", 209], ["format", "jpg"], ["resource_type", "image"], ["created_at", "2018-01-27 08:34:21.215511"], ["updated_at", "2018-01-27 08:34:21.215511"]]
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[35mSQL (25.2ms)[0m  [1m[33mUPDATE "rooms" SET "description" = $1, "name" = $2, "price_centavos" = $3, "secretary" = $4, "psychology_couch" = $5, "updated_at" = $6 WHERE "rooms"."id" = $7[0m  [["description", "Vendo a melhor Cachaça para caipirinha!!"], ["name", "Cachaça Pirassunga 51 - a legítima "], ["price_centavos", 5000], ["secretary", "f"], ["psychology_couch", "t"], ["updated_at", "2018-01-27 08:34:23.695793"], ["id", 17]]
+  [1m[35m (21.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/rooms/17
+Completed 302 Found in 4340ms (ActiveRecord: 50.8ms)
+
+
+Started GET "/rooms/17" for 127.0.0.1 at 2018-01-27 06:34:23 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"17"}
+  [1m[36mRoom Load (0.5ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 17], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.4ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 17]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 17], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (5.6ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.4ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (1.9ms)
+  Rendered rooms/show.html.erb within layouts/application (20.1ms)
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (9.7ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 97ms (Views: 87.7ms | ActiveRecord: 4.4ms)
+
+
+Started GET "/rooms/17" for 127.0.0.1 at 2018-01-27 06:36:18 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"17"}
+  [1m[36mRoom Load (0.4ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 17], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.3ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 17]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 17], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (6.7ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.5ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (2.0ms)
+  Rendered rooms/show.html.erb within layouts/application (25.2ms)
+  [1m[36mAttachinary::File Load (1.2ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.1ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.4ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 111ms (Views: 101.3ms | ActiveRecord: 4.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:36:27 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.0ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.1ms)
+  Rendered shared/_flashes.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 88ms (Views: 81.5ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/rooms?utf8=%E2%9C%93&address=&when=&type=Comidinhas&button=" for 127.0.0.1 at 2018-01-27 06:36:28 -0200
+Processing by RoomsController#index as HTML
+  Parameters: {"utf8"=>"✓", "address"=>"", "when"=>"", "type"=>"Comidinhas", "button"=>""}
+  [1m[36mRoom Load (0.7ms)[0m  [1m[34mSELECT "rooms".* FROM "rooms" WHERE "rooms"."type" = $1[0m  [["type", "Comidinhas"]]
+  Rendering rooms/index.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 13], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  [1m[36mAttachinary::File Load (0.8ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_card_rooms.html.erb (1.6ms)
+  Rendered rooms/index.html.erb within layouts/application (10.5ms)
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (14.3ms)
+  Rendered shared/_flashes.html.erb (0.9ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 110ms (Views: 86.6ms | ActiveRecord: 4.7ms)
+
+
+Started GET "/css/style.css" for 127.0.0.1 at 2018-01-27 06:36:29 -0200
+  
+ActionController::RoutingError (No route matches [GET] "/css/style.css"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/rooms/16" for 127.0.0.1 at 2018-01-27 06:36:34 -0200
+Processing by RoomsController#show as HTML
+  Parameters: {"id"=>"16"}
+  [1m[36mRoom Load (0.5ms)[0m  [1m[34mSELECT  "rooms".* FROM "rooms" WHERE "rooms"."id" = $1 LIMIT $2[0m  [["id", 16], ["LIMIT", 1]]
+  [1m[36mReservation Load (0.4ms)[0m  [1m[34mSELECT "reservations".* FROM "reservations" WHERE "reservations"."room_id" = $1[0m  [["room_id", 16]]
+  Rendering rooms/show.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 16], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_room_carrousel.html.erb (7.7ms)
+  Rendered rooms/_block_feature.html.erb (0.6ms)
+  Rendered rooms/_block_feature.html.erb (0.0ms)
+  Rendered rooms/_review_show.html.erb (0.6ms)
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  Rendered rooms/_form_create_reservation.html.erb (2.0ms)
+  Rendered rooms/show.html.erb within layouts/application (23.8ms)
+  [1m[36mAttachinary::File Load (1.3ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (9.8ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 102ms (Views: 91.3ms | ActiveRecord: 4.5ms)
+
+
+Started GET "/css/style.css" for 127.0.0.1 at 2018-01-27 06:37:07 -0200
+  
+ActionController::RoutingError (No route matches [GET] "/css/style.css"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:37:19 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (3.7ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (16.1ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 83ms (Views: 80.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/rooms?utf8=%E2%9C%93&address=&when=&type=Produtos+do+Brasil&button=" for 127.0.0.1 at 2018-01-27 06:37:26 -0200
+Processing by RoomsController#index as HTML
+  Parameters: {"utf8"=>"✓", "address"=>"", "when"=>"", "type"=>"Produtos do Brasil", "button"=>""}
+  [1m[36mRoom Load (0.6ms)[0m  [1m[34mSELECT "rooms".* FROM "rooms" WHERE "rooms"."type" = $1[0m  [["type", "Produtos do Brasil"]]
+  Rendering rooms/index.html.erb within layouts/application
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 14], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  [1m[36mAttachinary::File Load (0.6ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 15], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  [1m[36mAttachinary::File Load (0.7ms)[0m  [1m[34mSELECT "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3[0m  [["attachinariable_id", 17], ["attachinariable_type", "Room"], ["scope", "photos"]]
+  Rendered rooms/_card_rooms.html.erb (2.7ms)
+  Rendered rooms/index.html.erb within layouts/application (17.1ms)
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (1.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (13.7ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 104ms (Views: 94.7ms | ActiveRecord: 4.9ms)
+
+
+Started GET "/css/style.css" for 127.0.0.1 at 2018-01-27 06:37:26 -0200
+  
+ActionController::RoutingError (No route matches [GET] "/css/style.css"):
+  
+actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.4) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.4) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.3) lib/rack/method_override.rb:22:in `call'
+rack (2.0.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.4) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.4) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.3) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.4) lib/rails/engine.rb:522:in `call'
+puma (3.10.0) lib/puma/configuration.rb:225:in `call'
+puma (3.10.0) lib/puma/server.rb:605:in `handle_request'
+puma (3.10.0) lib/puma/server.rb:437:in `process_client'
+puma (3.10.0) lib/puma/server.rb:301:in `block in run'
+puma (3.10.0) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-01-27 06:37:45 -0200
+Processing by RoomsController#home as HTML
+  Rendering rooms/home.html.erb within layouts/application
+  Rendered rooms/home.html.erb within layouts/application (4.1ms)
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  [1m[36mAttachinary::File Load (0.9ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  [1m[36mCACHE Attachinary::File Load (0.0ms)[0m  [1m[34mSELECT  "attachinary_files".* FROM "attachinary_files" WHERE "attachinary_files"."attachinariable_id" = $1 AND "attachinary_files"."attachinariable_type" = $2 AND "attachinary_files"."scope" = $3 ORDER BY "attachinary_files"."id" ASC LIMIT $4[0m  [["attachinariable_id", 4], ["attachinariable_type", "User"], ["scope", "photo"], ["LIMIT", 1]]
+  Rendered shared/_navbar_wunderplace.html.erb (12.8ms)
+  Rendered shared/_flashes.html.erb (0.6ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 83ms (Views: 80.3ms | ActiveRecord: 1.7ms)
+
+

@@ -1,4 +1,4 @@
-<div class="banner" style="background-image: linear-gradient(-225deg, rgba(150,168,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('<%= image_path('marketplace.png') %>');">
+<div class="banner" style="background-image: linear-gradient(-225deg, rgba(150,168,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('<%= image_path('banner.jpeg') %>');">
   <div class="banner-content-home">
 
     <div class="banner-title-home">
@@ -10,7 +10,7 @@
       <%= form_tag rooms_path, method: :get, class: "form-inline" do %>
       <%= text_field_tag "address", nil, placeholder: "Endereço", class: "form-control", id: "address" %>
       <%= text_field_tag "when", nil, placeholder: "dd/mm/yyyy", class: "form-control" %>
-      <%= select_tag(:type, options_for_select(['Psicologia', 'Odontologia', 'Nutrição', 'Psiquiatria']), class: "form-control") %>
+      <%= select_tag(:type, options_for_select(['Comidinhas', 'Produtos do Brasil', 'Serviços', 'Câmbio', 'Aluguel', 'Doações', 'Venda de garagem']), class: "form-control") %>
         <%= button_tag :submit, class: "btn btn-success" do %>
         Buscar
         <% end %>

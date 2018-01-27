@@ -1,8 +1,8 @@
 
 
 <%= simple_form_for @room do |f| %>
-<%= f.input :type, collection: ['Psicologia', 'Odontologia', 'Nutrição', 'Psiquiatria'], label: 'Qual o tipo da sala?', label_html: { align: "left" } %>
-<%= f.input :address, label: 'Onde fica?', label_html: {align: 'left'} %>
+<%= f.input :type, collection: ['Comidinhas', 'Produtos do Brasil', 'Serviços', 'Câmbio', 'Aluguel', 'Doações', 'Venda de Garagem'], label: 'Escolha uma categoria:', label_html: { align: "left" } %>
+<%= f.input :address, label: 'Qual a localização?', label_html: {align: 'left'} %>
 <%= f.submit "Cadastrar", class: 'btn btn-primary' %>
 <% end %>
 
