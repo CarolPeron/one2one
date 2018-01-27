@@ -2,14 +2,13 @@
   <div class="banner-content-home">
 
     <div class="banner-title-home">
-      <h2>Encontre o que você procura.</h2>
+      <h2>De Brasileiro para Brasileiro</h2>
       <p>Rápido e fácil</p>
     </div>
 
     <div class="banner-form-home">
       <%= form_tag rooms_path, method: :get, class: "form-inline" do %>
-      <%= text_field_tag "address", nil, placeholder: "Endereço", class: "form-control", id: "address" %>
-      <%= text_field_tag "when", nil, placeholder: "dd/mm/yyyy", class: "form-control" %>
+      <%= text_field_tag "address", nil, placeholder: "Informe o local...", class: "form-control", id: "address" %>
       <%= select_tag(:type, options_for_select(['Comidinhas', 'Produtos do Brasil', 'Serviços', 'Câmbio', 'Aluguel', 'Doações', 'Venda de garagem']), class: "form-control") %>
         <%= button_tag :submit, class: "btn btn-success" do %>
         Buscar

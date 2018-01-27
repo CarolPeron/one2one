@@ -30,8 +30,13 @@
 
         <% if @room.user == current_user %>
           <p><%= link_to 'Editar', edit_room_url, class: 'btn btn-primary'%></p>
-
         <% end %>
+
+
+        <% if @room.user == current_user %>
+          <p><%= link_to 'Apagar anúncio', room_path(@room),class: 'btn btn-danger', method: :delete, data: {confirm: 'Você tem certeza que quer apagar?' } %></p>
+        <% end %>
+
         <div class="reservation_module">
           <%= link_to "Faça seu pedido", new_room_reservation_path(@room), class: 'btn btn-primary' %>
         </div>

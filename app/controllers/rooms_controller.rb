@@ -66,6 +66,12 @@ class RoomsController < ApplicationController
 
 
   def destroy
+    @room = Room.find(params[:id])
+    if @room.destroy
+      redirect_to home_path
+    else
+      redirect_to room_path(@room)
+    end
   end
 
   def search
