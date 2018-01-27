@@ -1,0 +1,23 @@
+
+
+<%= simple_form_for [@user, @room] do |f| %>
+  <%= f.input :name, label: 'Nome' %>
+  <%= f.input :description, label: 'Descrição' %>
+  <%= f.input :price, label: 'Preço por hora' %>
+  <div>
+    <br>
+      <h4> Comodidades:</h4>
+        <%= f.input :secretary, as: :boolean, label: 'Secretária' %>
+        <%= f.input :psychology_couch, as: :boolean, label: 'Divã' %>
+      <h4> Regras do local:</h4>
+        <%= f.input :cleaning, as: :boolean, label: 'Limpeza' %>
+        <%= f.input :smoking_allowed, as: :boolean, label: 'Área fumantes' %>
+  </div>
+  <br>
+  <%= f.input :photos, as: :attachinary, label: 'Fotos' %>
+  <%= f.submit "Avançar", class: 'btn btn-primary', align: 'right' %>
+<% end%>
+
+
+
+

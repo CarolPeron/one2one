@@ -1,0 +1,41 @@
+
+
+.form_wrapper {
+  color: gray;
+  margin: 10px;
+  padding: 0 10px;
+  width: 900px;
+}
+
+.cancel_account {
+  width: 100%;
+  font-size: 12px;
+  color: gray;
+  margin: 10px 0 0 0;
+}
+
+.form_wrapper_signup {
+  color: gray;
+  margin: 10px;
+  padding: 0 10px;
+  width: 500px;
+}
+
+.wrapper_login {
+  display: flex;
+  align-items: center;
+  margin: 50px;
+  width: 100%;
+  justify-content: center;
+}
+
+.wrapper_registration {
+  display: flex;
+  margin: 50px 0px;
+  width: 100%;
+  justify-content: flex-start;
+}
+
+#datepicker {
+  width: 160px;
+}
